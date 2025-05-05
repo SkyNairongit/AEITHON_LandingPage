@@ -142,7 +142,7 @@ const MailPage = () => {
     <div>
       <p>
         © 2025: <span className="text-white font-semibold">AEITHON</span> | AEITHY Innovation & Incubation Centre.<br />
-        Hosted by AEITY Systems P.A. Ltd. All rights reserved.
+        Hosted by AEITY Systems Pvt Ltd. All rights reserved.
       </p>
     </div>
 
