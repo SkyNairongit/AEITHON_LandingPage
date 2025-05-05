@@ -2,13 +2,15 @@ import React from "react";
 import Navbar from "./Navbar"; // Ensure Navbar.js is in the same folder or adjust path accordingly
 
 const domains = [
-  { name: "Artificial Intelligence & Data Science", icon: "🤖" },
-  { name: "SaaS/Cloud Native Solutions", icon: "☁️" },
+  { name: "Artificial Intelligence & Machine Learning", icon: "🤖" },
+  { name: "Cloud & Edge Computing", icon: "☁️" },
   { name: "IoT & Smart Devices", icon: "📡" },
-  { name: "Cybersecurity & Privacy", icon: "🔐" },
-  { name: "ESG & Smart Cities", icon: "🌆" },
-  { name: "HealthTech", icon: "🏥" },
-  { name: "HealthTech & Life Sciences", icon: "🧬" },
+  { name: "Cybersecurity & Digital Trust", icon: "🔐" },
+  { name: "Enterprise Software & SaaS", icon: "💻" },
+  { name: "Future of Work & Human Augmentation", icon: "👨🏽‍💼" },
+  { name: "FinTech & Digital Payments", icon: "💰" },
+  { name: "Sustainable & Green Tech", icon: "🍃" },
+  { name: "HealthTech & Bio-Innovation", icon: "🧬" },
 ];
 
 const MailPage = () => {
